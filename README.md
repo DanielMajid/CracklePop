@@ -1,0 +1,1 @@
+This program is written to display integers from 1 to 100. Each number divisible by 3 should be replaced with 'Crackle.' Numbers divisible by 5 should be replaced with 'Pop.' Numbers divisible by 15 should be replaced with 'CracklePop.'
